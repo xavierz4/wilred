@@ -1,0 +1,26 @@
+/*Wilred v 1.0 fecha: 101118 autor: Jose Javier Soto Torres*/
+
+@media screen and (min-width: 480px){
+    body{
+      background: #0083DB;
+    }
+  }
+  
+  @media screen and (min-width: 600px){
+    body{
+      background: rgb(190, 187, 0);
+    }
+    
+  }
+  
+  @media screen and (min-width: 767px){
+    body{
+      background: rgb(219, 124, 0);
+    }
+  }
+  
+  @media screen and (min-width: 950px){
+    body{
+      background: rgb(161, 4, 201);
+    }
+  }
